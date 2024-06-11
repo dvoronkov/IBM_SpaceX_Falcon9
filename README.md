@@ -10,9 +10,9 @@ The primary objective of this project is to employ data science and machine lear
 
 ### Example of Launch Outcomes
 
-- **Successful Launch**: ![successful launch gif](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DS0701EN-SkillsNetwork/lab_v2/images/landing_1.gif)
+- **Successful Launch**: ![Successful launch gif](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DS0701EN-SkillsNetwork/lab_v2/images/landing_1.gif)
   
-- **Unsuccessful Launch**: ![Unsuccessful launch gif](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DS0701EN-SkillsNetwork/lab_v2/images/crash.gif)
+- **Unsuccessful Launch**: <img src="https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DS0701EN-SkillsNetwork/lab_v2/images/crash.gif" width="300" alt="Unsuccessful launch">
 
 
 ## Project Overview
