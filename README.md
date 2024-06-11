@@ -12,7 +12,7 @@ The primary objective of this project is to employ data science and machine lear
 
 - **Successful Launch**: ![Successful launch gif](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DS0701EN-SkillsNetwork/lab_v2/images/landing_1.gif)
   
-- **Unsuccessful Launch**: <img src="GIF/crash.gif" width="450">
+- **Unsuccessful Launch**: <img src="GIF/crash.gif" width="500">
 
 
 ## Project Overview
