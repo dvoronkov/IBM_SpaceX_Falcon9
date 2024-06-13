@@ -54,6 +54,12 @@ This project involves several key steps:
 
 ## Conclusion
 
-This project provides a comprehensive approach to collecting, analyzing, and predicting the successful landing of the SpaceX Falcon 9 first stage. The insights gained will be instrumental in estimating launch costs and formulating competitive strategies for Space Y in the burgeoning commercial space industry.
+The project successfully predicts the landing success of the Falcon 9 first stage, enabling significant cost savings in rocket launches. Key findings include:
 
-Results: All findings have been summarised in the [Final pdf presentation](Falcon 9 Landing Predictor.pdf) 
+- Falcon 9's booster recovery process is improving over time with a current success rate of 66%.
+- The supervised classification model used predicts launch outcomes with an accuracy of 84%.
+- Factors such as payload, orbit, booster version, and launch sites were crucial in determining the success of booster recovery.
+- SpaceX's innovative techniques, like landing FT boosters on drone ships, are promising for future success.
+
+All findings have been summarized in the [Final PDF Presentation](Falcon_9_Landing_Predictor.pdf).
+
