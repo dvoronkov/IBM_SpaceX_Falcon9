@@ -56,4 +56,4 @@ This project involves several key steps:
 
 This project provides a comprehensive approach to collecting, analyzing, and predicting the successful landing of the SpaceX Falcon 9 first stage. The insights gained will be instrumental in estimating launch costs and formulating competitive strategies for Space Y in the burgeoning commercial space industry.
 
-Results: All findings have been summarised in the Final pdf presentation
+Results: All findings have been summarised in the [Final pdf presentation](Falcon 9 Landing Predictor.pdf) 
